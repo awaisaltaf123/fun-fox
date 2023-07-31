@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should render correctly 1`] = `
+<div>
+  <div>
+    <div
+      class="circular-spinner"
+    >
+      <div
+        class="spinner-circle"
+      />
+    </div>
+    <h1
+      class="text-xl font-bold pb-10 pt-5 ml-2 flex items-center justify-center"
+    >
+      Task Management System
+    </h1>
+    <div
+      class="flex items-end justify-end"
+    >
+      <button
+        class="bg-blue-500 text-white px-4 py-2 rounded-md mr-10"
+      >
+        Add New Task
+      </button>
+    </div>
+    <div
+      data-rbd-droppable-context-id="0"
+      data-rbd-droppable-id="droppable"
+    />
+  </div>
+</div>
+`;

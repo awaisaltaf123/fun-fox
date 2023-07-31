@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TaskList renders the TaskList component with an empty task list 1`] = `
+<div>
+  <div />
+</div>
+`;
+
+exports[`TaskList renders the TaskList component with tasks 1`] = `
+<div>
+  <div>
+    <div>
+      Mocked Task Component
+    </div>
+    <div>
+      Mocked Task Component
+    </div>
+  </div>
+</div>
+`;
