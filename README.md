@@ -20,7 +20,7 @@ Before you start, ensure you have the following software installed on your syste
 
 4. Change the following variables in the `.env` file:
    - `REACT_APP_NODE_API_ENDPOINT`: Replace this with the URL of the backend server. (Example: `192.168.10.1`)
-   - `REACT_APP_PORT`: Replace this with the port number on which the backend server will run. (Example: `8000`)
+   - `REACT_APP_PORT`: Replace this with the port number on which the backend server will run. (Example: `8080`)
 
 ### Backend Environment
 
@@ -30,6 +30,7 @@ Before you start, ensure you have the following software installed on your syste
 
 7. Update the following variables in the `.env` file (if necessary):
    - `PORT`: Set this to the port number on which you want the backend server to run. (Example: `8000`)
+   - make sure nothing is runnig on port 8080.
 
 ## Starting the Backend Server
 
